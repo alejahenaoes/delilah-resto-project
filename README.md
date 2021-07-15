@@ -11,14 +11,14 @@ API para pedidos de comida deliciosa. Como cliente, podrás registrarte, ver el 
 - **"mysql2"**: "^2.2.5",
 - **"sequelize"**: "^6.6.5"
 
-> Proyecto desarrollado en la formación con Protalento y Acámica 
+> Proyecto desarrollado en la formación con Protalento y Acámica. Por Daniel Martínez y Alejandra Henao 
 
 _Antes de iniciar deberás revisar la documentación en: https://app.swaggerhub.com/apis/alejahenaoes/Delilah-resto/1.0.0_
 <br>
 
 ##   Iniciemos:
 
-**Clona el proyecto y ejecuta el siguiente código en la terminal:
+**Clona el proyecto y ejecuta el siguiente código en la terminal:**
 
 ```shell
 npm i dotenv express express-validator jsonwebtoken mysql2 sequelize
